@@ -1,0 +1,67 @@
+h1 {font-family: 'Chango', cursive;}
+h1 {text-align: center;}
+h1 {text-transform: uppercase;}
+h1 {color: fd7e14;}
+
+#csf
+  {font-family: 'Chango', cursive;
+  text-align: left;
+  text-transform: uppercase;
+  color: 4C65BF;}
+
+#lms
+  {font-family: 'Chango', cursive;
+  text-align: right;
+  text-transform: uppercase;
+  color: 4BB55E;}
+
+#flux
+  {height: auto;
+  width: 150vh;}
+
+#lmsp
+  {font-family: 'Chango', cursive;
+  text-align: left;
+  text-transform: uppercase;
+  line-height: 1.8;
+  color: ffffff;}
+
+#pnta
+  {font-family: 'Chango', cursive;
+  text-align: center;
+  text-transform: uppercase;
+  color: C4AE3F;}
+
+#progetti
+  {font-family: 'Chango', cursive;
+  font-size:4vh;
+  text-align: left;
+  text-transform: uppercase;
+  line-height: 1.8;
+  color: ffffff;}
+
+#ftr
+{font-family: 'Roboto', cursive;
+font-size:2vh;
+text-align:center;
+color:ffffff;}
+
+.solidblue
+  {border-style: solid;
+  border-color: 4C65BF;
+  border-radius: 50px;}
+
+.solidgreen
+  {border-style: solid;
+  border-color: 4BB55E;
+  border-radius: 50px;}
+
+.solidyellow
+  {border-style: solid;
+  border-color: C4AE3F;
+  border-radius: 50px;}
+
+  a:link, a:visited {
+    color:ffffff;
+    text-decoration: underline;
+  }
